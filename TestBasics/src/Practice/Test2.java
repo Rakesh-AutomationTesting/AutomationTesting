@@ -13,7 +13,7 @@ public class Test2 {
 
 		driver.get("https://www.google.com");
 		driver.navigate().to("https://www.youtube.com");
-		driver.get("https://www.github.com");
+		driver.get("https://www.facebook.com");
 		
 		Thread.sleep(1000);
 		
