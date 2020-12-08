@@ -15,7 +15,7 @@ public class Test2 {
 		driver.navigate().to("https://www.youtube.com");
 		driver.get("https://www.github.com");
 		
-		Thread.sleep(2000);
+		Thread.sleep(1000);
 		
 		driver.quit();
 		
