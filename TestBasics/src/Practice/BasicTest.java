@@ -35,7 +35,7 @@ public class BasicTest {
 		
 		Thread.sleep(2000);
 		
-		driver.quit();
+		driver.close();
 		
 		
 
